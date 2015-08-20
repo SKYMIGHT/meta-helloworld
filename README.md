@@ -2,7 +2,7 @@ Community Resources
 ===================
 
 Project home:
-  * https://github.com/SKYMIGHT/meta-hello.git
+  * https://github.com/SKYMIGHT/meta-helloworld.git
 
 How to install required packages
 ================================
@@ -22,7 +22,7 @@ Setup repositories
 $ git clone git://git.yoctoproject.org/poky.git
 $ cd poky
 $ git checkout -b fido origin/fido
-$ git clone https://github.com/SKYMIGHT/meta-hello.git
+$ git clone https://github.com/SKYMIGHT/meta-helloworld.git
 
 Setup build directory
 $ source oe-init-build-env 
